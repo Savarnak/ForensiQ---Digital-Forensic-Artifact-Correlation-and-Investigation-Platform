@@ -1,0 +1,4 @@
+call_id,timestamp,caller_number,recipient_number,duration_sec,cell_tower_id,caller_account,recipient_account
+CALL-5001,2026-08-10T13:50:00Z,+1-555-0199,+1-555-0100,45,TOWER-SF-101,@CyberHawk,@SupportBot
+CALL-5002,2026-08-10T14:02:15Z,+1-555-0199,+1-555-0144,124,TOWER-SF-104,@CyberHawk,@NightOwl
+CALL-5003,2026-08-10T14:20:00Z,+1-555-0144,+1-555-0188,60,TOWER-OAK-202,@NightOwl,@UnknownPeer

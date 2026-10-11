@@ -1,0 +1,29 @@
+[
+  {
+    "device_id": "DEV-SPH-9001",
+    "device_model": "Samsung Galaxy S22",
+    "primary_user_account": "@CyberHawk",
+    "phone_number": "+1-555-0199",
+    "imei": "358901234567890",
+    "mac_address": "AA:BB:CC:11:22:33",
+    "os_version": "Android 13"
+  },
+  {
+    "device_id": "DEV-IPH-8812",
+    "device_model": "Apple iPhone 14 Pro",
+    "primary_user_account": "@NightOwl",
+    "phone_number": "+1-555-0144",
+    "imei": "359876543210987",
+    "mac_address": "DD:EE:FF:44:55:66",
+    "os_version": "iOS 16.5"
+  },
+  {
+    "device_id": "DEV-MAC-4040",
+    "device_model": "Apple MacBook Pro 16",
+    "primary_user_account": "@CyberHawk",
+    "phone_number": null,
+    "imei": null,
+    "mac_address": "11:22:33:44:55:66",
+    "os_version": "macOS 13.4"
+  }
+]

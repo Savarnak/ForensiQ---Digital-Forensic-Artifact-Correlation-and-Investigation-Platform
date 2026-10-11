@@ -1,0 +1,44 @@
+﻿# Environment files and secrets
+.env
+.env.*
+!.env.example
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+ENV/
+# Local databases and logs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+# Runtime-generated evidence and local application data
+/backend/data/evidence/
+/backend/data/
+# Frontend dependencies and build artifacts
+/frontend/node_modules/
+/frontend/dist/
+node_modules/
+dist/
+# Model artifacts
+*.pkl
+*.pickle
+*.joblib
+# Credentials and private keys
+*.pem
+*.key
+*.pfx
+*.p12
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# Test coverage
+.coverage
+htmlcov/
+coverage/

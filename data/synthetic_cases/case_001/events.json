@@ -1,0 +1,63 @@
+[
+  {
+    "event_id": "EVT-20260810-01",
+    "timestamp": "2026-08-10T14:00:00Z",
+    "event_title": "Initial Chat Synchronization",
+    "description": "@CyberHawk sent chat message CHAT-1001 confirming meeting location at San Francisco Dock 14.",
+    "associated_entities": [
+      "@CyberHawk",
+      "@NightOwl",
+      "DEV-SPH-9001",
+      "37.774929,-122.419416"
+    ],
+    "evidence_references": [
+      "chats.json#CHAT-1001"
+    ]
+  },
+  {
+    "event_id": "EVT-20260810-02",
+    "timestamp": "2026-08-10T14:02:15Z",
+    "event_title": "Direct Cellular Contact",
+    "description": "Call CALL-5002 initiated between +1-555-0199 (@CyberHawk) and +1-555-0144 (@NightOwl).",
+    "associated_entities": [
+      "@CyberHawk",
+      "@NightOwl",
+      "+1-555-0199",
+      "+1-555-0144"
+    ],
+    "evidence_references": [
+      "calls.csv#CALL-5002"
+    ]
+  },
+  {
+    "event_id": "EVT-20260810-03",
+    "timestamp": "2026-08-10T14:05:30Z",
+    "event_title": "Shared Geotag Image Capture",
+    "description": "Device DEV-SPH-9001 captured evidence_photo_01.jpg at San Francisco Dock 14 (GPS 37.774929, -122.419416).",
+    "associated_entities": [
+      "DEV-SPH-9001",
+      "@CyberHawk",
+      "37.774929,-122.419416",
+      "evidence_photo_01.jpg"
+    ],
+    "evidence_references": [
+      "evidence_photo_01.jpg",
+      "gps.csv",
+      "chats.json#CHAT-1003"
+    ]
+  },
+  {
+    "event_id": "EVT-20260810-04",
+    "timestamp": "2026-08-10T14:10:00Z",
+    "event_title": "Public Social Media Check-in",
+    "description": "@NightOwl posted POST-801 tagging San Francisco Dock 14 and @CyberHawk.",
+    "associated_entities": [
+      "@NightOwl",
+      "@CyberHawk",
+      "San Francisco Dock 14"
+    ],
+    "evidence_references": [
+      "social_messages.json#POST-801"
+    ]
+  }
+]

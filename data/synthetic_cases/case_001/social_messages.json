@@ -1,0 +1,26 @@
+[
+  {
+    "post_id": "POST-801",
+    "timestamp": "2026-08-10T14:10:00Z",
+    "author_handle": "@NightOwl",
+    "platform": "MicroBlog_Synthetic",
+    "post_content": "Just checked in near San Francisco Waterfront Dock 14! Great view of the Bay Bridge.",
+    "location_name": "San Francisco Dock 14",
+    "tagged_handles": [
+      "@CyberHawk"
+    ],
+    "device_user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_5 like Mac OS X) AppleWebKit/605.1.15"
+  },
+  {
+    "post_id": "POST-802",
+    "timestamp": "2026-08-10T14:15:20Z",
+    "author_handle": "@VigilantUser",
+    "platform": "MicroBlog_Synthetic",
+    "post_content": "Notice: Account @CyberHawk is posting suspicious technical coordination requests. Reporting to safety moderators.",
+    "location_name": "Oakland, CA",
+    "tagged_handles": [
+      "@CyberHawk"
+    ],
+    "device_user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7)"
+  }
+]
